@@ -1,0 +1,62 @@
+{
+    "files.autoSave": "onWindowChange",
+    "files.autoGuessEncoding": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.inheritEnv": false,
+    "jupyter.askForKernelRestart": false,
+    "sync.gist": "57d5327737b37d3880cc4fb89438bd15",
+    "sync.removeExtensions": false,
+    "notebook.output.textLineLimit": 50,
+    "workbench.iconTheme": "vscode-icons",
+    "C_Cpp.updateChannel": "Insiders",
+    "cmake.configureOnOpen": true,
+    "cmake.configureSettings": {},
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.lineNumbers": "on",
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "gopls": {
+        "experimentalWorkspaceModule": true,
+        "build.experimentalWorkspaceModule": true
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "redhat.telemetry.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "workbench.colorCustomizations": {},
+    "terminal.integrated.automationProfile.linux": {
+        "terminal.integrated.shell.linux": "/bin/zsh"
+    },
+    "terminal.integrated.automationProfile.osx": {
+        "terminal.integrated.shell.osx": "/bin/zsh"
+    }
+}
